@@ -1,0 +1,21 @@
+c:\users\hp\documents\visual studio 2015\Projects\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\bin\Debug\ResimdenYaziyaYazidanSese.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\bin\Debug\ResimdenYaziyaYazidanSese.exe
+c:\users\hp\documents\visual studio 2015\Projects\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\bin\Debug\ResimdenYaziyaYazidanSese.pdb
+c:\users\hp\documents\visual studio 2015\Projects\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.exe
+c:\users\hp\documents\visual studio 2015\Projects\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.pdb
+c:\users\hp\documents\visual studio 2015\Projects\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.Form2.resources
+C:\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\bin\Debug\ResimdenYaziyaYazidanSese.exe.config
+C:\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\bin\Debug\ResimdenYaziyaYazidanSese.exe
+C:\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\bin\Debug\ResimdenYaziyaYazidanSese.pdb
+C:\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.csprojResolveAssemblyReference.cache
+C:\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.Form1.resources
+C:\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.Form2.resources
+C:\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.Properties.Resources.resources
+C:\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.csproj.GenerateResource.Cache
+C:\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.csproj.CoreCompileInputs.cache
+C:\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.exe
+C:\ResimdenYaziyaYazidanSese\ResimdenYaziyaYazidanSese\obj\Debug\ResimdenYaziyaYazidanSese.pdb
